@@ -29,7 +29,6 @@ The **Monitoring Pipeline Visualization** project aims to reduce the complexity 
 5. **Visualization**: Grafana’s NodeGraph is used to create a visual representation of the pipeline's data flow.
 
 ## Installation
-
 ### Prerequisites
 - RedHat Enterprise Linux (RHEL) 9.4
 - Python 3.11/3.12
