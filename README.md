@@ -16,6 +16,7 @@ The **Monitoring Pipeline Visualization** project aims to reduce the complexity 
   ## ScreenShots
 
   ![image alt](https://github.com/Abhilash-T-R/HPE_CTY_MPV-HPCM-/blob/35134c72567b3c41b40ebe38596040c09549efdb/Screenshot%20(37).png)
+  ![image alt](https://github.com/Abhilash-T-R/HPE_CTY_MPV-HPCM-/blob/036b3d0db409c87aff351770e0f5b0a93a453a68/Screenshot%20(38).png)
 
 ## Technologies Used
 
