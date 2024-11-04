@@ -13,6 +13,10 @@ The **Monitoring Pipeline Visualization** project aims to reduce the complexity 
 - **Command-Line Interface (CLI)**: Provides a CLI for managing and controlling the pipeline monitoring system.
 - **Data Logging**: Implements a logging mechanism to track warnings, errors, and info logs for easier troubleshooting.
 
+  ## ScreenShots
+
+  ![image alt](https://github.com/Abhilash-T-R/HPE_CTY_MPV-HPCM-/blob/35134c72567b3c41b40ebe38596040c09549efdb/Screenshot%20(37).png)
+
 ## Technologies Used
 
 - **Programming Language**: Python
